@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../stdin"],"names":[],"mappings":"AAAA;EACE,aAAa;EACb,cAAc;EACd,sBAAsB,EACvB;;AAED;EACE,YAAY,EACb","file":"gallery.css","sourcesContent":[".gallery__root {\n  width: 600px;\n  height: 300px;\n  border: 1px solid red;\n}\n\n.gallery__slide {\n  float: left;\n}"],"sourceRoot":"/source/"}
